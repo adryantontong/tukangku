@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Tukangku</string>
+    <string name="tukang_name">Nama Tukang</string>
+    <string name="detail_number">Nomor Order</string>
+    <string name="reorder">Re-Order</string>
+
+
+</resources>
